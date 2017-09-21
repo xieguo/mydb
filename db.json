@@ -1,5 +1,9 @@
 {
-  "book": {
-    "name" : "fire"
+  "login": {
+  	"status": true,
+  	"data": {
+  		"token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  	},
+  	"info": "successful"
   }
 }
