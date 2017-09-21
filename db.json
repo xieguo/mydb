@@ -5,5 +5,8 @@
   		"token": "my token"
   	},
   	"info": "successful"
+  },
+  "post": {
+    "content": "this a content"
   }
 }
