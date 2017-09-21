@@ -2,7 +2,7 @@
   "login": {
   	"status": true,
   	"data": {
-  		"token": "xxxxxxxxxxx"
+  		"token": "my token"
   	},
   	"info": "successful"
   }
